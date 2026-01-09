@@ -1,0 +1,41 @@
+# Cafe Bealma — Generative Engine Optimization Map
+
+> A food and beverage business.
+
+---
+
+## Pages
+
+## Legal & Policy
+
+### Privacy Policy
+https://cafe-bealma-ea82df91.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://cafe-bealma-ea82df91.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://cafe-bealma-ea82df91.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Cafe Bealma
+Cafe Bealma is a business in the food and beverage industry.
+
+## Target Audience
+General audience
+
+## Industry
+food and beverage
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://cafe-bealma-ea82df91.zappy5.app/sitemap.xml
+- **Robots.txt**: https://cafe-bealma-ea82df91.zappy5.app/robots.txt

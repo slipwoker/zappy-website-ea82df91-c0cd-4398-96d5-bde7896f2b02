@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://cafe-bealma-ea82df91.zappy5.app/sitemap.xml
